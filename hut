@@ -1,0 +1,23 @@
+[33mcommit 1dd0b697d1d3f17827320babc88e4f78f700604d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vanya <you@example.com>
+Date:   Sat Jan 11 14:19:13 2025 +0000
+
+    again meging
+
+[33mcommit 8226ded173e15afe95d39ffaebb0e4de0ca7cd47[m
+Author: Vanya <you@example.com>
+Date:   Sat Jan 11 14:10:50 2025 +0000
+
+    testing branches
+
+[33mcommit b787e024565df23dbd78dfc24239497f011bf364[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vanya <you@example.com>
+Date:   Fri Jan 10 13:10:40 2025 +0000
+
+    my first commit
+
+[33mcommit 4aba3be103dfcb595764f9fe51d281ec0c08b337[m
+Author: minder8inder <121382466+minder8inder@users.noreply.github.com>
+Date:   Fri Jan 10 15:25:15 2025 +0300
+
+    Initial commit
